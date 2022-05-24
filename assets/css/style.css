@@ -5,7 +5,6 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  /* background-image: url("https://cdn.pixabay.com/photo/2021/07/19/16/04/pizza-6478478_960_720.jpg"); */
   background-image: url("https://cdn.pixabay.com/photo/2020/03/25/21/05/pizza-4968645_960_720.jpg");
   background-position: center center;
   background-attachment: fixed;
@@ -34,7 +33,7 @@ body {
   flex-direction: column;
   height: 100vh;
   width: 100%;
-  /* From https://css.glass */
+
   background: rgba(4, 0, 0, 0.479);
   backdrop-filter: blur(5.9px);
   -webkit-backdrop-filter: blur(5.9px);
